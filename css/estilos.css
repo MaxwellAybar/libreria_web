@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  margin: 0 10px;
+  color: #333;
+}
+
+nav a:hover {
+  color: #007BFF;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table, th, td {
+  border: 1px solid #ccc;
+  padding: 8px;
+}
